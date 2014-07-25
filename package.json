@@ -1,0 +1,9 @@
+{
+  "name": "Cookie-Demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "cookies": "^0.4.1",
+    "express": "^4.6.1",
+    "keygrip": "^1.0.1"
+  }
+}
